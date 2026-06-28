@@ -253,11 +253,11 @@ video{
 
     justify-content:center;
 
-    gap:30px;
+    gap:10px;
 
     flex-wrap:wrap;
 
-    padding:10px;
+    /* padding:10px;  */
 
 }
 
