@@ -31,16 +31,16 @@ Student-Portfolio/
 
  ── index.html
  ── about.html
- ── project.html
+ ── projects.html
  ── planner.html
  ── contact.html
 
  ── css
-    └── porfolio.css
+    └── portfolio.css
 
 
  ── js
-    └── porfolio.js
+    └── portfolio.js
 
  ── images
     ├── IMG_5150.jpg
@@ -49,7 +49,7 @@ Student-Portfolio/
     └── Screenshot 2026-06-27 022250.png
 
 ── media
-      └── intro.mp4
+      └── Introduction.m4a
 
 ── README.md
 

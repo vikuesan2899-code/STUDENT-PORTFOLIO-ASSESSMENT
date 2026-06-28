@@ -1,3 +1,4 @@
+// Academic Planner page.
 let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
 
 
@@ -5,10 +6,19 @@ const taskInput = document.getElementById("taskInput");
 const addTaskBtn = document.getElementById("addTaskBtn");
 const taskList = document.getElementById("taskList");
 
-
 if (addTaskBtn) {
 
     addTaskBtn.addEventListener("click", addTask);
+
+    taskInput.addEventListener("keypress", function(event){
+
+        if(event.key === "Enter"){
+
+            addTask();
+
+        }
+
+    });
 
     displayTasks();
 
@@ -46,7 +56,8 @@ function addTask(){
 
     displayTasks();
 
-    taskInput.value="";
+    taskInput.value = "";
+    taskInput.focus();
 
 }
 
