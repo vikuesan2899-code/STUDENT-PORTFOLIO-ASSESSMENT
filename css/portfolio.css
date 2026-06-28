@@ -237,7 +237,7 @@ video{
 
 /* project page */
 
-.page-title{
+.projects{
 
     text-align:center;
 
@@ -257,7 +257,6 @@ video{
 
     flex-wrap:wrap;
 
-    /* padding:10px;  */
 
 }
 
