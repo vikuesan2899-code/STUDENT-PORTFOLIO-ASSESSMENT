@@ -257,7 +257,7 @@ video{
 
     flex-wrap:wrap;
 
-    padding:40px;
+    padding:10px;
 
 }
 
@@ -294,6 +294,8 @@ video{
     height:220px;
 
     object-fit:cover;
+
+    object-position: top;
 
 }
 .project-card h3{
