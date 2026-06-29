@@ -245,6 +245,8 @@ video{
 
     color:#003366;
 
+    padding: 5px;
+
 }
 
 .projects-container{
@@ -253,9 +255,13 @@ video{
 
     justify-content:center;
 
+    align-items: center;
+
     gap:10px;
 
     flex-wrap:wrap;
+
+    padding: 5px;
 
 
 }
