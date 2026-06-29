@@ -17,7 +17,7 @@ This project is a responsive personal portfolio website developed as part of the
 - Contact Form with Validation
 - Responsive Design
 - Local Storage for Tasks
-- Multimedia Support (Images and Video)
+- Multimedia Support (Images and Audio)
 
 ## Programming Languages Used
 
@@ -44,9 +44,9 @@ Student-Portfolio/
 
  ── images
     ├── IMG_5150.jpg
-    ├── Screenshot 2026-06-27 022015.png
-    ├── Screenshot 2026-06-27 022140.png
-    └── Screenshot 2026-06-27 022250.png
+    ├── Hire-Page.png
+    ├── Housing Quotation.png
+    └── Employee Details Management.png
 
 ── media
       └── Introduction.m4a
